@@ -35,3 +35,15 @@ img {
     max-width: 10%;
     height: auto;
 }
+
+.ad-banner {
+	width: 320px;
+    float: left;
+    margin-left: 5%
+    margin-right: 5%;
+}
+
+.ad-banner-wrapper {
+    width: 660px;
+    margin: 0 auto;
+}
